@@ -34,7 +34,7 @@ function criaSegundaFrase(num1, num2) {
         resultado = 'maior'
     }
 
-    return 'Sua soma é ${soma}, que é ${resultado? que 10 e ${resultado} que 20.'
+    return 'Sua soma é ${soma}, que é ${resultado} que 10 e ${resultado} que 20.'
     
 }
 
